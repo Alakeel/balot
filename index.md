@@ -1,4 +1,8 @@
-# ![Balot Calculator Icon](https://github.com/alakeel/balot/raw/main/assets/icon.png)
+<div align="center">
+  <img src="https://github.com/Alakeel/balot/blob/master/assets/icon.png?raw=true" width="100" />
+</div>
+
+<br/>
 
 # Privacy Policy for Balot Calculator
 
