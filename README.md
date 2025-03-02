@@ -1,1 +1,0 @@
-# balot-calculator-privacy-policy
